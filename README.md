@@ -5,11 +5,6 @@ Payload untuk BadUSB Super X-code 3.0
 Payload untuk remote komputer target yang menggunakan Windows 7, 8.1, 10 dan 11 yang memanfaatkan celah BadUSB.
 
 
-Payload untuk BadUSB Super X-code 3.0
--------------------------------------
-Payload untuk remote komputer target yang menggunakan Windows 7, 8.1, 10 dan 11 yang memanfaatkan celah BadUSB.
-
-
 Contoh video hasil eksploitasi untuk remote Windows 10
 ------------------------------------------------
 Video remote shell (Windows dilindungi Kaspersky Endpoint Security 2022) : https://www.youtube.com/watch?v=inrHM5gLMW4
