@@ -1,5 +1,8 @@
 Payload untuk BadUSB Super X-code 3.0
 -------------------------------------
+
+![alt text](http://xcode.or.id/04_small-logo.png)
+
 Payload untuk remote komputer target yang menggunakan Windows 7, 8.1, 10 dan 11 yang memanfaatkan celah BadUSB.
 
 
